@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grimy</h1>
-<h3 align="center">A C# development student with an intrest for reverse engineering.</h3>
+<h3 align="center">A C# development student with an intrest for software & reverse engineering.</h3>
 
 - 🔭 I’m currently working on [C# in "Whatever"](https://github.com/xGrimy/Whatever)
 
