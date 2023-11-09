@@ -42,9 +42,9 @@
 </p>
 
 <p> &nbsp; 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgrimy" alt="xgrimy" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xGrimy&theme=dark&border_radius=5&background=45%2C000000%2CA44E00" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=xgrimy&label=Profile%20views&color=0e75b6&style=flat" alt="xgrimy" />
+    <img src="https://komarev.com/ghpvc/?username=xgrimy&label=Profile%20views&color=A44E00&style=flat" alt="xgrimy" />
 </p>
