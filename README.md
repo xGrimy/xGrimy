@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Grimy</h1>
 <h3 align="center">A C# development student with an intrest for software & reverse engineering.</h3>
 
-- 🔭 I’m currently working on [C# in "Whatever"](https://github.com/xGrimy/Whatever)
-
+- ☕ I’m currently working on [C# in "Whatever"](https://github.com/xGrimy/Whatever)
 - 🌱 I’m currently learning **C#, .NET, WPF, Databases, WinAPI, ...**
-
 - 📫 Reach me on discord **grimy0**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/22888211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22888211" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
