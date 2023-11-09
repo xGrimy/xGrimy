@@ -45,6 +45,12 @@
 <br/>  
 
 
+ 
+  
+
+<br/>  
+
+
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
@@ -52,7 +58,15 @@
 
 <br/>  
 
-<br />
+
+
+  
+
+<br/>  
+
+  
+
+<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
@@ -64,5 +78,5 @@
 
 <br />
 
-
-</p>
+----
+<div align="center"></div>
