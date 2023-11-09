@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grimy</h1>
 <h3 align="center">A C# development student with an intrest for software & reverse engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xgrimy&label=Profile%20views&color=0e75b6&style=flat" alt="xgrimy" /> </p>
-
 - 🔭 I’m currently working on [C# in "Whatever"](https://github.com/xGrimy/Whatever)
 
 - 🌱 I’m currently learning **C#, .NET, WPF, Databases, WinAPI, ...**
@@ -16,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> &nbsp;  
+<p align="left"> &nbsp; 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"         
         height="40"/> 
@@ -34,15 +32,19 @@
     </a>
 </p>
 
-<p> &nbsp;  
+<p> &nbsp; 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgrimy&show_icons=true&locale=en&layout=compact"   
   alt="xgrimy" />
 </p>
 
-<p>&nbsp;  
+<p>&nbsp; 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xgrimy&show_icons=true&locale=en" alt="xgrimy" />
 </p>
 
-<p> &nbsp;  
+<p> &nbsp; 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgrimy" alt="xgrimy" />
+</p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=xgrimy&label=Profile%20views&color=0e75b6&style=flat" alt="xgrimy" />
 </p>
