@@ -19,7 +19,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"         
         height="40"/> 
     </a>
-<br>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" 
         height="40"/>
@@ -28,7 +27,6 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
-<br>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"       
         height="40"/>
@@ -48,10 +46,10 @@
 <br>
 
 <p> &nbsp; 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xGrimy&theme=dark&border_radius=5&background=45%2C000000%2CA44E00" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgrimy&" alt="xgrimy" />
 </p>
 <br>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=xgrimy&label=Profile%20views&color=A44E00&style=flat" alt="xgrimy" />
+    <img src="https://komarev.com/ghpvc/?username=xgrimy&label=Profile%20views&color=0e75b6&style=flat" alt="xgrimy" />
 </p>
