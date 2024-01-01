@@ -3,7 +3,8 @@
 
 -  📌 I’m currently working on: **[External Trainer application using C# and WPF]((https://github.com/xGrimy/Trainer))**
 
-    ![image](https://github.com/xGrimy/xGrimy/assets/105457539/b0cb4ab5-7bd9-4469-aa04-7418505af98e)
+    ![image](https://github.com/xGrimy/xGrimy/assets/105457539/bb3a6bfc-e385-4bb5-8b0b-27d76ed3cc0c)
+
 
 - ❓I’m studying: **C#, .NET, WPF, Databases, WinAPI, ...**  
   
