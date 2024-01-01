@@ -2,8 +2,8 @@
   
 
 -  📌 I’m currently working on: **[External Trainer application using C# and WPF]((https://github.com/xGrimy/Trainer))**
-    ![image](https://github.com/xGrimy/xGrimy/assets/105457539/b0cb4ab5-7bd9-4469-aa04-7418505af98e)
 
+    ![image](https://github.com/xGrimy/xGrimy/assets/105457539/b0cb4ab5-7bd9-4469-aa04-7418505af98e)
 
 - ❓I’m studying: **C#, .NET, WPF, Databases, WinAPI, ...**  
   
