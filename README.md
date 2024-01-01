@@ -1,7 +1,7 @@
 ### <div align="center">I'm Grimy, A C# development student with an intrest for software & reverse engineering.</div>  
   
 
--  📌 I’m currently working on [C# in "Whatever"](https://github.com/xGrimy/Whatever)  
+-  📌 I’m currently working on [External Trainer application using C# and WPF]((https://github.com/xGrimy/Trainer))  
   
 
 - ❓I’m studying **C#, .NET, WPF, Databases, WinAPI, ...**  
