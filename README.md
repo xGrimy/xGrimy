@@ -7,7 +7,7 @@
 
 
 - ❓I’m studying:
-    - **C#: .NET & WPF**
+    - **C#, .NET & WPF**
     - **MySQL Databases**
     - **C++ basics**
     - **Windows API**
