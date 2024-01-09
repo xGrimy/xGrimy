@@ -6,7 +6,12 @@
     ![image](https://github.com/xGrimy/xGrimy/assets/105457539/bb3a6bfc-e385-4bb5-8b0b-27d76ed3cc0c)
 
 
-- ❓I’m studying: **C#, .NET, WPF, Databases, WinAPI, ...**  
+- ❓I’m studying:
+    - **C#: .NET & WPF**
+    - **MySQL Databases**
+    - **C++ basics**
+    - **Windows API**
+    - **Reverse Engineering**
   
 
 <br/>  
