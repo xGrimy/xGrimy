@@ -8,7 +8,7 @@
 
 - ❓I’m studying:
     - **C#, .NET & WPF**
-    - **MySQL Databases**
+    - **MySQL & MSSQL Databases**
     - **C++ basics**
     - **Windows API**
     - **Reverse Engineering**
