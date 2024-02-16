@@ -60,20 +60,21 @@
 </table>  
 <br/>  
 
-
+<!-- STATS -->
 <<div align="center">
     <h2>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Stats;" alt="Typing SVG"/>
     </h2>
 </div>
-
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" alt="Grimy's GitHub Stats"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=8"/>
+    <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark"/></td>
+    </tr>
+ </table>
 </div>
-
- <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGrimy&hide_border=true&layout=compact" align="left" />  
 
 <div align="center">
   <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs" width="400" alt="Grimy's Dev Card"/></a>
@@ -86,11 +87,14 @@
 <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center"></div>
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
+    </tr>
+ </table>
+</div>
