@@ -8,7 +8,7 @@
 <!-- ABOUT ME -->
 <div align="center">
     <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=About+me;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=#+About+me;" alt="Typing SVG"/>
     </h2>
     <h3>
        I'm a C# development student with an intrest for low-level & reverse engineering.
@@ -30,7 +30,7 @@
 <!-- SKILL SET -->
 <div align="center">
     <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Skill+set;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=#+Skill+set;" alt="Typing SVG"/>
     </h2>
 </div>
 <table align="center"><tr><td valign="top" width="33%">
@@ -63,7 +63,7 @@
 <!-- STATS -->
 <<div align="center">
     <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Stats;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=#+Stats;" alt="Typing SVG"/>
     </h2>
 </div>
 
