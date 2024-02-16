@@ -80,6 +80,8 @@
     <tr>
         <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
         <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
+    </tr>
+    <tr>
         <td><img style="border: none; width: 100%;" src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
     </tr>
  </table>
