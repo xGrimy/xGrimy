@@ -22,16 +22,13 @@
     <h4>
     I’m studying:
     </h4>
-    <list>
+</div>
+
     - **C#, .NET & WPF**
     - **MySQL & MSSQL Databases**
     - **C++ basics**
     - **Windows API**
     - **Reverse Engineering**
-</list>
-</div>
-
- ** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
 
 <br/>  
 
