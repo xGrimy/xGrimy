@@ -1,15 +1,17 @@
+<!-- TITLE -->
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Hey!..+I'm+Grimy;This+is+my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
+<!-- TITLE GIF -->
 <div align="center">
     <p>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*JtC1CS6-OT218_QzRlLXFw.gif&f=1&nofb=1&ipt=05ae2708d1a175c171d07835ce7fd0e626c4715ad5f72f8c17a94f5b65223880&ipo=images" />
     </p>
 </div>
 
-
+<!-- ABOUT ME -->
 <div align="center">
     <h2>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=About+me..;" alt="Typing SVG"/>
@@ -23,22 +25,18 @@
     I’m studying:
     </h4>
 </div>
-
     - C#, .NET & WPF
     - MySQL & MSSQL Databases
     - C++ basics
     - Windows API
     - Reverse Engineering
+</br>
 
-
-
+<!-- SKILL SET -->
 <div align="center">
     <h2>Skill set</h2>
 </div>
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Development  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
