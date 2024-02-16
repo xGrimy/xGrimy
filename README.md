@@ -69,19 +69,19 @@
 
 <div align="center">
  <table align="center" style="border-collapse: collapse;">
-    <tr width="100">
+    <tr width="75">
        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/></td>   
        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark"/></td>
     </tr>
-    <tr>
+    <tr width="75">
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark"/></td>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/></td>
     </tr>
-    <tr>
+    <tr width="75">
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
     </tr>
-    <tr>
+    <tr width="75">
         <td><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
     </tr>
  </table>
