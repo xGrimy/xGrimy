@@ -10,8 +10,10 @@
     </p>
 </div>
 
-### <div align="center">I'm Grimy, A C# development student with an intrest for low-level & reverse engineering.</div>  
-  
+<div align="center">
+    <h2>🚀 About Me</h2>
+    ### <p>I'm Grimy, A C# development student with an intrest for low-level & reverse engineering.</p> ###
+</div>
 
 -  📌 I’m currently working on: **[External Trainer application using C# and WPF]((https://github.com/xGrimy/Trainer))**
 
