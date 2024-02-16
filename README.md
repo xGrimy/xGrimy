@@ -24,7 +24,7 @@
     </h4>
 </div>
 
-    ** - C#, .NET & WPF **
+    - C#, .NET & WPF
     - MySQL & MSSQL Databases
     - C++ basics
     - Windows API
