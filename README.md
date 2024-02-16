@@ -12,15 +12,16 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-</div>
-
-** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
+    ** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
 - ❓I’m studying:
     - **C#, .NET & WPF**
     - **MySQL & MSSQL Databases**
     - **C++ basics**
     - **Windows API**
     - **Reverse Engineering**
+</div>
+
+
 <br/>  
 
 
