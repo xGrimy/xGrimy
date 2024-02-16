@@ -39,7 +39,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Skill+set;" alt="Typing SVG"/>
     </h2>
 </div>
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
     
 ### Development  
 <div align="center">  
