@@ -12,20 +12,21 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    ** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
-- ❓I’m studying:
+</div>
+
+ ** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
+- I’m studying:
     - **C#, .NET & WPF**
     - **MySQL & MSSQL Databases**
     - **C++ basics**
     - **Windows API**
     - **Reverse Engineering**
-</div>
-
-
 <br/>  
 
 
-## My Skill Set  
+<div align="center">
+    <h2>Skill set</h2>
+</div>
 <table><tr><td valign="top" width="33%">
 
 
