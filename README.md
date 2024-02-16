@@ -1,9 +1,14 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Hey..+I'm+Grimy;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Hey..+I'm+Grimy;This+is+my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
+div align="center">
+    <p>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*JtC1CS6-OT218_QzRlLXFw.gif&f=1&nofb=1&ipt=05ae2708d1a175c171d07835ce7fd0e626c4715ad5f72f8c17a94f5b65223880&ipo=images" />
+    </p>
+</div>
 
 ### <div align="center">I'm Grimy, A C# development student with an intrest for low-level & reverse engineering.</div>  
   
