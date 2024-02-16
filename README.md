@@ -69,6 +69,7 @@
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" alt="Grimy's GitHub Stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=8"/>
 </div>
 
  <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
