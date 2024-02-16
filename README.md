@@ -69,7 +69,7 @@
 
 <div align="center">
  <table align="center" style="border-collapse: collapse;">
-    <tr>
+    <tr width="100">
        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/></td>   
        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark"/></td>
     </tr>
