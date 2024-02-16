@@ -75,10 +75,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGrimy&hide_border=true&layout=compact" align="left" />  
 </div>
 
-<br/>  
-
-
-<br/>  
 <div align="center">
   <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs" width="400" alt="Grimy's Dev Card"/></a>
 </div> 
