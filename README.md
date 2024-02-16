@@ -17,14 +17,18 @@
     <h3>
        I'm a C# development student with an intrest for low-level & reverse engineering.
     </h3>
-<p>
-        - I’m studying:
+</div>
+<div>
+    <h4>
+    I’m studying:
+    </h4>
+    <list>
     - **C#, .NET & WPF**
     - **MySQL & MSSQL Databases**
     - **C++ basics**
     - **Windows API**
     - **Reverse Engineering**
-</p>
+</list>
 </div>
 
  ** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
