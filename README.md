@@ -65,9 +65,14 @@
     <h2>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Stats;" alt="Typing SVG"/>
     </h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGrimy&hide_border=true&layout=compact" align="left" />  
 </div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" alt="Grimy's GitHub Stats"/>
+</div>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGrimy&hide_border=true&layout=compact" align="left" />  
 
 <div align="center">
   <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs" width="400" alt="Grimy's Dev Card"/></a>
