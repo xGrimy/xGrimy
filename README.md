@@ -58,27 +58,20 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
+</td>
+</tr>
+</table>  
 <br/>  
 
 
  
-  
-
-<br/>  
-
-
-## Github Stats  
+<div align="center">
+    <h2>Github stats</h2>
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGrimy&hide_border=true&layout=compact" align="left" />  
-
 <br/>  
 
-
-
-  
 
 <br/>  
 <div align="center">
