@@ -85,6 +85,8 @@
   <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs" width="400" alt="Grimy's Dev Card"/></a>
 </div> 
 
+<!--https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl-->
+
 
 <br/>  
 
