@@ -67,12 +67,14 @@
 <br/>  
 
 
- 
-<div align="center">
-    <h2>Github stats</h2>
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<<div align="center">
+    <h2>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Stats;" alt="Typing SVG"/>
+    </h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=xGrimy&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGrimy&hide_border=true&layout=compact" align="left" />  
+</div>
+
 <br/>  
 
 
