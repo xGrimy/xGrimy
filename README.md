@@ -77,7 +77,7 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
-        <td><img style="border: none;" src="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
+        <td><img style="border: none;" src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
     </tr>
  </table>
 </div>
