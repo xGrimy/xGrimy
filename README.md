@@ -82,7 +82,7 @@
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
     </tr>
     <tr width="75">
-        <td><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs" width="75"/></td>
+        <td><img src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs" width="75" height="100"/></td>
     </tr>
  </table>
 <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
