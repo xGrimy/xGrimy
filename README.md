@@ -66,6 +66,24 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Stats;" alt="Typing SVG"/>
     </h2>
 </div>
+
+<div align="center">
+ <table align="center" width="100%" style="border-collapse: collapse;">
+    <tr>
+       <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/></td>   
+       <td><img style="border: none; width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark"/></td>
+    </tr>
+    <tr>
+        <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/></td>
+        <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none; width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none; width: 100%;" src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
+    </tr>
+ </table>
+</div>
+
+<!--
 <div align="center">
  <table align="center" width="100%" height="100%" >
     <tr>
@@ -80,7 +98,7 @@
         <td><img style="border: none;" src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
     </tr>
  </table>
-</div>
+</div> -->
 
 
 <!--https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl-->
