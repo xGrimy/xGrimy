@@ -12,22 +12,15 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    ** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
 </div>
 
--  📌 I’m currently working on: **[External Trainer application using C# and WPF]((https://github.com/xGrimy/Trainer))**
-
-    ![image](https://github.com/xGrimy/xGrimy/assets/105457539/bb3a6bfc-e385-4bb5-8b0b-27d76ed3cc0c)
-
-
+** I'm Grimy, A C# development student with an intrest for low-level & reverse engineering. **
 - ❓I’m studying:
     - **C#, .NET & WPF**
     - **MySQL & MSSQL Databases**
     - **C++ basics**
     - **Windows API**
     - **Reverse Engineering**
-  
-
 <br/>  
 
 
