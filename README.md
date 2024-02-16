@@ -84,7 +84,5 @@
 <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
 </div>
 
-<!--https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl-->
-</div>  
-  
 
+<!--https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl-->
