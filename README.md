@@ -81,33 +81,10 @@
         <td><img style="border: none; width: 100%;" src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
     </tr>
  </table>
+<img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
 </div>
 
-<!--
-<div align="center">
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark"/></td>
-    </tr>
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
-        <td><img style="border: none;" src="https://api.daily.dev/devcards/bd837cbf8c2041c69663f8baacf5e463.png?r=3qs"/></td>
-    </tr>
- </table>
-</div> -->
-
-
 <!--https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl-->
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
 </div>  
   
 
