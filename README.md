@@ -73,6 +73,12 @@
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark"/></td>
     </tr>
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
+    </tr>
  </table>
 </div>
 
@@ -87,14 +93,4 @@
 <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" />
 </div>  
   
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/></td>
-    </tr>
- </table>
-</div>
+
