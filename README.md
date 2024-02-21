@@ -1,4 +1,4 @@
-<div style="background-color: white;">
+
 <!-- TITLE GIF -->
 <div align="left">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*JtC1CS6-OT218_QzRlLXFw.gif&f=1&nofb=1&ipt=05ae2708d1a175c171d07835ce7fd0e626c4715ad5f72f8c17a94f5b65223880&ipo=images" width="250" height="250"/>
@@ -35,7 +35,7 @@
     </h2>
 </div>
 
-<table align="center"><tr><td valign="top" width="33%">    
+<table style="border-collapse: collapse; border: none;" align="center"><tr><td valign="top" width="33%">    
     ### Development  
     <div align="center">  
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -69,13 +69,13 @@
 </div>
 
 <div align="center">
-    <table align="center" style="border-collapse: collapse;">
+    <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" width="600"/>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark" width="600"/>
         </tr>
     </table>
-    <table align="center" style="border-collapse: collapse;">
+    <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
             <td align="left">
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/>
@@ -97,7 +97,6 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square"/>
-</div>
 </div>
 
 <!--
