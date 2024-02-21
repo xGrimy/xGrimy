@@ -8,7 +8,7 @@
 <!-- ABOUT ME -->
 <div align="center">
     <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=About+me;" alt="Typing SVG"/>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></a>
     </h2>
     <h3>
        I'm a C# development student with an intrest for low-level & reverse engineering.
@@ -91,4 +91,7 @@
 </div>
 
 
-<!--https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl-->
+<!--
+https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
+https://github.com/warengonzaga
+-->
