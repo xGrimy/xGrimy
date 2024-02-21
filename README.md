@@ -84,9 +84,9 @@
  </table>
 </div>
 
-<div>
-   <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/v2/435YEe1EgyUShMMbCWsb6.png?type=default&r=wg8" width="356" alt="Grimy's Dev Card"/></a>
-<img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square" align="center" /> 
+<div align="center">
+   <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/v2/435YEe1EgyUShMMbCWsb6.png?type=default&r=wg8" width="356"         alt="Grimy's Dev Card"/></a>
+    <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square"/> 
 </div>
 
 
