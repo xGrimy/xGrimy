@@ -71,8 +71,8 @@
 <div align="center">
     <table align="center" style="border-collapse: collapse;">
         <tr>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark"/>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark" width="700"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" width="600"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark" width="600"/>
         </tr>
     </table>
     <table align="center" style="border-collapse: collapse;">
