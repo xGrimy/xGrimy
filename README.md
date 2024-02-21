@@ -1,3 +1,4 @@
+<div background="white>
 <!-- TITLE GIF -->
 <div align="left">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*JtC1CS6-OT218_QzRlLXFw.gif&f=1&nofb=1&ipt=05ae2708d1a175c171d07835ce7fd0e626c4715ad5f72f8c17a94f5b65223880&ipo=images" width="250" height="250"/>
@@ -103,3 +104,4 @@
 https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
 https://github.com/warengonzaga
 -->
+</div>
