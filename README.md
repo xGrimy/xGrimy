@@ -98,10 +98,9 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square"/>
 </div>
-
+</div>
 
 <!--
 https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
 https://github.com/warengonzaga
 -->
-</div>
