@@ -16,6 +16,7 @@
 </div>
 <div>
     <h4>
+            
     I’m currently studying:
     </h4>
     - C#, .NET & WPF
@@ -25,6 +26,7 @@
     <h4>
     Future plans:
     </h4>
+    
     - Windows API
     - Reverse Engineering
     - Learn C
