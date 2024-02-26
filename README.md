@@ -18,13 +18,19 @@
     <h4>
     I’m currently studying:
     </h4>
-</div>
-
     - C#, .NET & WPF
     - MySQL & MSSQL Databases
     - C++ basics
+    
+    <h4>
+    Future plans:
+    </h4>
     - Windows API
     - Reverse Engineering
+    - Learn C
+    - Learn Assembly
+</div>
+
 </br>
 
 
