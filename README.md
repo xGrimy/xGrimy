@@ -16,9 +16,9 @@
 </div>
 <div>
     <h4>
-            
     I’m currently studying:
     </h4>
+        
     - C#, .NET & WPF
     - MySQL & MSSQL Databases
     - C++ basics
