@@ -22,7 +22,9 @@
     - C#, .NET & WPF
     - MySQL & MSSQL Databases
     - C++ basics
-    
+</div>
+
+<div>
     <h4>
     Future plans:
     </h4>
