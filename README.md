@@ -16,12 +16,12 @@
 </div>
 <div>
     <h4>
-    I’m currently studying:
+    In progress:
     </h4>
         
-    - C#, .NET & WPF
+    - .NET & WPF using ADO.NET
     - MySQL & MSSQL Databases
-    - C++ basics
+    - Learn C++
 </div>
 
 <div>
