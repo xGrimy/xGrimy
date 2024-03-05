@@ -10,7 +10,7 @@
 <!-- ABOUT ME -->
 <div align="center">
     <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=About+me;"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Goals;"/>
     </h2>
     <h3>
        I'm a C# development student with an intrest for low-level & reverse engineering.
