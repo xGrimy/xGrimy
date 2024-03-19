@@ -30,14 +30,6 @@
 
 </br>
 
-
-<!-- SKILL SET -->
-<div align="center">
-    <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Skill+set;"/>
-    </h2>
-</div>
-
 <table style="border-collapse: collapse; border: none;" align="center">
     <tr>
         <td valign="top" width="33%">    
@@ -72,8 +64,6 @@
     </tr>
 </table>
 
-<br/>  
-
 <!-- STATS -->
 <div align="center">
     <h2>
@@ -85,34 +75,10 @@
     <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" width="600"/>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=xGrimy&theme=github_dark" width="600"/>
         </tr>
     </table>
-    <table align="center" style="border-collapse: collapse; border: none;">
-        <tr>
-            <td align="left">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xGrimy&theme=github_dark"/>
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xGrimy&theme=github_dark"/>
-            </td>
-            <td align="right">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xGrimy&theme=github_dark" />
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xGrimy&theme=github_dark&utcOffset=10"/>
-            </td>
-        </tr>
-    </table>
-</div>
-
-
-<!-- DAILY DEV -->
-<div align="center">
-    <a href="https://app.daily.dev/grimy"><img src="https://api.daily.dev/devcards/v2/435YEe1EgyUShMMbCWsb6.png?type=wide&r=jf2" width="652" alt="Grimy's Dev Card"/></a>
 </div>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=xGrimy&&style=flat-square"/>
 </div>
-
-<!--
-https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
-https://github.com/warengonzaga
--->
