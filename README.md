@@ -1,7 +1,7 @@
 
 <!-- TITLE GIF -->
 <div align="left">
-        <img src="https://i.gifer.com/origin/6f/6f4b375d9f7626a146a1bc7bef22aec4_w200.gif" width="200" height="200"/>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdtY3U2cmo4ZnltcW1rZXNmYzl6ZWo4MHl0NzkyNmdqZmR5a2o0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Qbp9P6AW9IVf8vIk5/giphy.gif" width="200" height="200"/>
 </div>
 
 
