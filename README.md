@@ -1,7 +1,7 @@
 
 <!-- TITLE GIF -->
 <div align="left">
-        <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f5/Earl.png/revision/latest/scale-to-width/360?cb=20120723061821" width="200" height="200"/>
+        <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f5/Earl.png/revision/latest/scale-to-width/360?cb=20120723061821" width="200" height="250"/>
 </div>
 
 
