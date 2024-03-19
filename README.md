@@ -65,7 +65,7 @@
 </table>
 
 <!-- STATS -->
-<div align="center">
+<div align="left">
     <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" width="600"/>
