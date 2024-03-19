@@ -17,7 +17,7 @@
     - Learn C++
 </div>
 
-<div>
+<div align="left">
     <h4>
     Future plans:
     </h4>
