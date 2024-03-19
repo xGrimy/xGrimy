@@ -66,12 +66,6 @@
 
 <!-- STATS -->
 <div align="center">
-    <h2>
-       <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Stats;"/>
-    </h2>
-</div>
-
-<div align="center">
     <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xGrimy&theme=github_dark" width="600"/>
