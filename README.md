@@ -1,21 +1,12 @@
 
 <!-- TITLE GIF -->
 <div align="left">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*JtC1CS6-OT218_QzRlLXFw.gif&f=1&nofb=1&ipt=05ae2708d1a175c171d07835ce7fd0e626c4715ad5f72f8c17a94f5b65223880&ipo=images" width="200"             height="200"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Framkumarsingh1.github.io%2Finternwings%2Fimg%2Fc%2B%2B.gif&f=1&nofb=1&ipt=a772055b0a5e2f1eb4056671ffb7d4361b9291031397022887397fa9a0082a77&ipo=images" width="200" 
-        height="200"/>
+        <img src="https://i.gifer.com/origin/6f/6f4b375d9f7626a146a1bc7bef22aec4_w200.gif" width="200" height="200"/>
 </div>
 
 
 <!-- ABOUT ME -->
 <div align="center">
-    <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=40&duration=3000&color=000000&center=true&vCenter=true&width=435&lines=Goals;"/>
-    </h2>
-    <h3>
-       I'm a C# development student with an intrest for low-level & reverse engineering.
-    </h3>
-</div>
 <div>
     <h4>
     In progress:
