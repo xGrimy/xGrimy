@@ -7,7 +7,7 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-<div>
+<div align="left">
     <h4>
     In progress:
     </h4>
