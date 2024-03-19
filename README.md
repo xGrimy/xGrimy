@@ -12,9 +12,9 @@
     In progress:
     </h4>
         
-    - .NET & WPF using ADO.NET
-    - MySQL & MSSQL Databases
-    - Learn C++
+    - Databases
+    - C++
+    
 </div>
 
 <div align="left">
@@ -22,10 +22,8 @@
     Future plans:
     </h4>
     
-    - Windows API
-    - Reverse Engineering
-    - Learn C
-    - Learn Assembly
+    - Win API
+    - x86 ASM
 </div>
 
 </br>
