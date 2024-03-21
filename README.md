@@ -1,7 +1,7 @@
 
 <!-- TITLE GIF -->
-<div align="right">
-        <img src="https://art.pixilart.com/sr21b184ba58652.gif" width="200" height="250"/>
+<div align="left">
+        <img src="https://media3.giphy.com/media/fUqv7zNVW2QaHqEgSg/giphy.gif" width="200" height="250"/>
 </div>
 
 
