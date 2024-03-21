@@ -1,6 +1,6 @@
 
 <!-- TITLE GIF -->
-<div align="left">
+<div align="right">
         <img src="https://art.pixilart.com/sr21b184ba58652.gif" width="200" height="250"/>
 </div>
 
