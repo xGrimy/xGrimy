@@ -71,8 +71,6 @@
     </table>
 </div>
 
-</br>
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=xGrimy&color=yellowgreen&&style=flat-square"/>
 </div>
