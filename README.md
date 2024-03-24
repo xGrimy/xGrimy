@@ -1,7 +1,7 @@
 
 <!-- TITLE GIF -->
 <div align="left">
-        <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="100" height="100"/>
+        <img src="https://media.tenor.com/pXEDrZV2s4QAAAAj/star-spinning.gif" width="100" height="100"/>
 </div>
 
 
@@ -71,6 +71,6 @@
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://komarev.com/ghpvc/?username=xGrimy&color=yellowgreen&&style=flat-square"/>
 </div>
